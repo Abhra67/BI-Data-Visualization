@@ -1,0 +1,101 @@
+{
+    "matches": [
+      {
+        "match_id": 1,
+        "date": "2023-10-15",
+        "venue": "Wankhede Stadium, Mumbai",
+        "teams": ["India", "Australia"],
+        "result": "India won by 6 wickets",
+        "team_stats": {
+          "India": {
+            "total_runs": 260,
+            "wickets_taken": 10,
+            "extras": 15
+          },
+          "Australia": {
+            "total_runs": 259,
+            "wickets_taken": 6,
+            "extras": 10
+          }
+        },
+        "players": [
+          {
+            "name": "Virat Kohli",
+            "team": "India",
+            "runs": 85,
+            "balls_faced": 70,
+            "fours": 8,
+            "sixes": 2,
+            "strike_rate": 121.42
+          },
+          {
+            "name": "Rohit Sharma",
+            "team": "India",
+            "runs": 55,
+            "balls_faced": 45,
+            "fours": 6,
+            "sixes": 1,
+            "strike_rate": 122.22
+          },
+          {
+            "name": "Pat Cummins",
+            "team": "Australia",
+            "wickets": 3,
+            "overs": 10,
+            "economy": 4.5,
+            "no_balls": 1,
+            "wide_balls": 2
+          }
+        ]
+      },
+      {
+        "match_id": 2,
+        "date": "2023-10-20",
+        "venue": "Eden Gardens, Kolkata",
+        "teams": ["Pakistan", "England"],
+        "result": "England won by 5 wickets",
+        "team_stats": {
+          "Pakistan": {
+            "total_runs": 240,
+            "wickets_taken": 5,
+            "extras": 12
+          },
+          "England": {
+            "total_runs": 241,
+            "wickets_taken": 9,
+            "extras": 14
+          }
+        },
+        "players": [
+          {
+            "name": "Babar Azam",
+            "team": "Pakistan",
+            "runs": 75,
+            "balls_faced": 65,
+            "fours": 7,
+            "sixes": 1,
+            "strike_rate": 115.38
+          },
+          {
+            "name": "Jos Buttler",
+            "team": "England",
+            "runs": 68,
+            "balls_faced": 50,
+            "fours": 8,
+            "sixes": 3,
+            "strike_rate": 136.0
+          },
+          {
+            "name": "Shaheen Afridi",
+            "team": "Pakistan",
+            "wickets": 4,
+            "overs": 10,
+            "economy": 3.8,
+            "no_balls": 0,
+            "wide_balls": 1
+          }
+        ]
+      }
+    ]
+  }
+  
